@@ -18,3 +18,10 @@
 2. Elemento 2
 3. Elemento 3
      - Elemento 4
+
+## Separaciones
+Esto es una separación
+
+___
+## Negritas y cursivas
+***No sé si tengo tiempo. Quizás me dé pronto por vencido y en lugar de eso me eche una siesta. ¡Hoy es 18 de jonio y es el cumpleaños de Miguel! Una vez quise ser astrofísico. Todo el mundo debe aprender por sí mismo al final.***
